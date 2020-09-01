@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg7384"
-   sodipodi:docname="capslock-enabled-symbolic.svg"
-   version="1.1"
-   inkscape:version="1.0 (1.0+r73+1)"
+   width="15.999999"
    height="16"
-   width="15.999999">
+   inkscape:version="1.0 (1.0+r73+1)"
+   version="1.1"
+   sodipodi:docname="capslock-enabled-symbolic.svg"
+   id="svg7384">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -26,141 +26,118 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="5.5556616"
-     pagecolor="#666666"
-     borderopacity="1"
-     showborder="false"
-     inkscape:bbox-paths="false"
-     guidetolerance="10"
-     inkscape:window-width="1729"
-     showguides="true"
-     inkscape:snap-bbox="true"
-     inkscape:pageshadow="2"
-     inkscape:guide-bbox="true"
-     inkscape:snap-nodes="true"
-     bordercolor="#666666"
-     objecttolerance="10"
-     id="namedview88"
-     showgrid="false"
-     inkscape:window-maximized="0"
-     inkscape:window-x="136"
-     inkscape:snap-global="true"
-     inkscape:window-y="226"
-     gridtolerance="10"
-     inkscape:window-height="1218"
-     inkscape:snap-to-guides="true"
-     inkscape:current-layer="layer11"
-     inkscape:zoom="22.627416"
-     inkscape:cx="-3.7646804"
-     inkscape:snap-grids="true"
-     inkscape:pageopacity="1"
+     inkscape:document-rotation="0"
      inkscape:bbox-nodes="false"
-     inkscape:document-rotation="0">
+     inkscape:pageopacity="1"
+     inkscape:snap-grids="true"
+     inkscape:cx="6.4596092"
+     inkscape:zoom="45.254832"
+     inkscape:current-layer="layer11"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="1218"
+     gridtolerance="10"
+     inkscape:window-y="226"
+     inkscape:snap-global="true"
+     inkscape:window-x="136"
+     inkscape:window-maximized="0"
+     showgrid="false"
+     id="namedview88"
+     objecttolerance="10"
+     bordercolor="#666666"
+     inkscape:snap-nodes="true"
+     inkscape:guide-bbox="true"
+     inkscape:pageshadow="2"
+     inkscape:snap-bbox="true"
+     showguides="true"
+     inkscape:window-width="1729"
+     guidetolerance="10"
+     inkscape:bbox-paths="false"
+     showborder="false"
+     borderopacity="1"
+     pagecolor="#666666"
+     inkscape:cy="7.628875">
     <inkscape:grid
-       spacingx="1"
-       spacingy="1"
-       id="grid4866"
-       empspacing="2"
-       enabled="true"
-       type="xygrid"
-       snapvisiblegridlinesonly="true"
-       visible="true"
+       originy="0"
        originx="0"
-       originy="0" />
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       type="xygrid"
+       enabled="true"
+       empspacing="2"
+       id="grid4866"
+       spacingy="1"
+       spacingx="1" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <filter
-       height="1.054"
-       y="-0.027000001"
-       width="1.054"
-       x="-0.027000001"
-       id="filter1151"
-       style="color-interpolation-filters:sRGB"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur1153"
-         stdDeviation="0.45"
-         inkscape:collect="always" />
-    </filter>
-  </defs>
+     id="defs7386" />
   <g
-     inkscape:label="status"
-     transform="translate(-222,-381)"
-     inkscape:groupmode="layer"
+     style="display:inline"
      id="layer9"
-     style="display:inline" />
-  <g
-     inkscape:label="devices"
-     transform="translate(-222,-381)"
      inkscape:groupmode="layer"
-     id="layer10" />
-  <g
-     inkscape:label="apps"
      transform="translate(-222,-381)"
+     inkscape:label="status" />
+  <g
+     id="layer10"
      inkscape:groupmode="layer"
-     id="layer11">
-    <rect
-       id="rect1145"
-       y="4"
-       x="-44"
-       width="40"
-       transform="matrix(0,-0.37950663,0.37950663,0,220.89184,379.89184)"
-       style="display:inline;opacity:0.2;fill:#ffffff;fill-opacity:1;stroke-width:0.869565;filter:url(#filter1151)"
-       rx="3.4782608"
-       height="40" />
+     transform="translate(-222,-381)"
+     inkscape:label="devices" />
+  <g
+     id="layer11"
+     inkscape:groupmode="layer"
+     transform="translate(-222,-381)"
+     inkscape:label="apps">
     <path
-       id="path29-6"
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:0.330006"
+       inkscape:connector-curvature="0"
        d="m 237.59013,384.04991 v -1.32002 c 0,-0.7313 -0.58873,-1.32003 -1.32002,-1.32003 h -12.54022 c -0.73129,0 -1.32002,0.58873 -1.32002,1.32003 v 1.32002 c 0,-0.73129 0.58873,-1.32002 1.32002,-1.32002 h 12.54022 c 0.73129,0 1.32002,0.58873 1.32002,1.32002 z"
-       inkscape:connector-curvature="0" />
+       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
+       id="path29-6" />
     <path
-       inkscape:connector-curvature="0"
+       id="path1162"
+       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
        d="m 222.40987,393.95008 v 1.32003 c 0,0.73129 0.58873,1.32002 1.32002,1.32002 h 12.54022 c 0.73129,0 1.32002,-0.58873 1.32002,-1.32002 v -1.32003 c 0,0.7313 -0.58873,1.32003 -1.32002,1.32003 h -12.54022 c -0.73129,0 -1.32002,-0.58873 -1.32002,-1.32003 z"
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:0.330006"
-       id="path1162" />
-    <path
-       id="path1164"
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:0.330006"
-       d="m 225.04991,381.40986 h -1.32002 c -0.73129,0 -1.32002,0.58873 -1.32002,1.32003 v 12.54022 c 0,0.73129 0.58873,1.32002 1.32002,1.32002 h 1.32002 c -0.73129,0 -1.32002,-0.58873 -1.32002,-1.32002 v -12.54022 c 0,-0.7313 0.58873,-1.32003 1.32002,-1.32003 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
+       d="m 225.04991,381.40986 h -1.32002 c -0.73129,0 -1.32002,0.58873 -1.32002,1.32003 v 12.54022 c 0,0.73129 0.58873,1.32002 1.32002,1.32002 h 1.32002 c -0.73129,0 -1.32002,-0.58873 -1.32002,-1.32002 v -12.54022 c 0,-0.7313 0.58873,-1.32003 1.32002,-1.32003 z"
+       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
+       id="path1164" />
+    <path
+       id="path1166"
+       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
        d="m 234.95009,381.40986 h 1.32002 c 0.73129,0 1.32002,0.58873 1.32002,1.32003 v 12.54022 c 0,0.73129 -0.58873,1.32002 -1.32002,1.32002 h -1.32002 c 0.73129,0 1.32002,-0.58873 1.32002,-1.32002 v -12.54022 c 0,-0.7313 -0.58873,-1.32003 -1.32002,-1.32003 z"
-       style="opacity:0.1;fill:#ffffff;fill-opacity:1;stroke-width:0.330006"
-       id="path1166" />
+       inkscape:connector-curvature="0" />
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.4449px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.286123"
-       x="226.25752"
+       id="text866"
        y="393"
-       id="text866"><tspan
-         sodipodi:role="line"
-         id="tspan864"
-         x="226.25752"
+       x="226.25752"
+       style="font-style:normal;font-weight:normal;font-size:11.4449px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.286123"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Labs';-inkscape-font-specification:'Star Labs';fill:#bebebe;fill-opacity:1;stroke-width:0.286123"
          y="393"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Labs';-inkscape-font-specification:'Star Labs';fill:#bebebe;fill-opacity:1;stroke-width:0.286123">A</tspan></text>
+         x="226.25752"
+         id="tspan864"
+         sodipodi:role="line">A</tspan></text>
   </g>
   <g
-     inkscape:label="actions"
-     transform="translate(-222,-381)"
+     id="layer12"
      inkscape:groupmode="layer"
-     id="layer12" />
+     transform="translate(-222,-381)"
+     inkscape:label="actions" />
   <g
-     inkscape:label="places"
-     transform="translate(-222,-381)"
+     id="layer13"
      inkscape:groupmode="layer"
-     id="layer13" />
+     transform="translate(-222,-381)"
+     inkscape:label="places" />
   <g
-     inkscape:label="mimetypes"
-     transform="translate(-222,-381)"
+     id="layer14"
      inkscape:groupmode="layer"
-     id="layer14" />
+     transform="translate(-222,-381)"
+     inkscape:label="mimetypes" />
   <g
-     inkscape:label="emblems"
-     transform="translate(-222,-381)"
+     id="layer15"
      inkscape:groupmode="layer"
-     id="layer15" />
+     transform="translate(-222,-381)"
+     inkscape:label="emblems" />
 </svg>
