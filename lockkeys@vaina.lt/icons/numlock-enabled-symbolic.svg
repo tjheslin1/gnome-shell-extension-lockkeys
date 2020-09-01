@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:cy="7.628875"
+     inkscape:cy="21.224045"
      pagecolor="#666666"
      borderopacity="1"
      showborder="false"
@@ -50,8 +50,8 @@
      inkscape:window-height="1218"
      inkscape:snap-to-guides="true"
      inkscape:current-layer="layer11"
-     inkscape:zoom="45.254832"
-     inkscape:cx="2.4268907"
+     inkscape:zoom="22.627416"
+     inkscape:cx="-1.8342828"
      inkscape:snap-grids="true"
      inkscape:pageopacity="1"
      inkscape:bbox-nodes="false"
@@ -90,27 +90,27 @@
      id="layer11">
     <path
        id="path29-6"
-       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
+       style="opacity:0.9;fill:#808080;fill-opacity:1;stroke-width:0.330006"
        d="m 237.59013,384.04991 v -1.32002 c 0,-0.7313 -0.58873,-1.32003 -1.32002,-1.32003 h -12.54022 c -0.73129,0 -1.32002,0.58873 -1.32002,1.32003 v 1.32002 c 0,-0.73129 0.58873,-1.32002 1.32002,-1.32002 h 12.54022 c 0.73129,0 1.32002,0.58873 1.32002,1.32002 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        d="m 222.40987,393.95008 v 1.32003 c 0,0.73129 0.58873,1.32002 1.32002,1.32002 h 12.54022 c 0.73129,0 1.32002,-0.58873 1.32002,-1.32002 v -1.32003 c 0,0.7313 -0.58873,1.32003 -1.32002,1.32003 h -12.54022 c -0.73129,0 -1.32002,-0.58873 -1.32002,-1.32003 z"
-       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
+       style="opacity:0.9;fill:#808080;fill-opacity:1;stroke-width:0.330006"
        id="path1162" />
     <path
        id="path1164"
-       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
+       style="opacity:0.9;fill:#808080;fill-opacity:1;stroke-width:0.330006"
        d="m 225.04991,381.40986 h -1.32002 c -0.73129,0 -1.32002,0.58873 -1.32002,1.32003 v 12.54022 c 0,0.73129 0.58873,1.32002 1.32002,1.32002 h 1.32002 c -0.73129,0 -1.32002,-0.58873 -1.32002,-1.32002 v -12.54022 c 0,-0.7313 0.58873,-1.32003 1.32002,-1.32003 z"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        d="m 234.95009,381.40986 h 1.32002 c 0.73129,0 1.32002,0.58873 1.32002,1.32003 v 12.54022 c 0,0.73129 -0.58873,1.32002 -1.32002,1.32002 h -1.32002 c 0.73129,0 1.32002,-0.58873 1.32002,-1.32002 v -12.54022 c 0,-0.7313 -0.58873,-1.32003 -1.32002,-1.32003 z"
-       style="opacity:0.7;fill:#bebebe;fill-opacity:1;stroke-width:0.330006"
+       style="opacity:0.9;fill:#808080;fill-opacity:1;stroke-width:0.330006"
        id="path1166" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.4449px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.286123"
+       style="font-style:normal;font-weight:normal;font-size:11.4449px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.286123"
        x="227.36768"
        y="393.00571"
        id="text866"><tspan
@@ -118,7 +118,7 @@
          id="tspan864"
          x="227.36768"
          y="393.00571"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Labs';-inkscape-font-specification:'Star Labs';fill:#bebebe;fill-opacity:1;stroke-width:0.286123">1</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Labs';-inkscape-font-specification:'Star Labs';fill:#808080;fill-opacity:1;stroke-width:0.286123">1</tspan></text>
   </g>
   <g
      inkscape:label="actions"
