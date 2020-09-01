@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="15.999999"
-   height="16"
-   inkscape:version="1.0 (1.0+r73+1)"
-   version="1.1"
+   id="svg7384"
    sodipodi:docname="capslock-disabled-symbolic.svg"
-   id="svg7384">
+   version="1.1"
+   inkscape:version="1.0 (1.0+r73+1)"
+   height="16"
+   width="15.999999">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -26,118 +26,103 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     inkscape:bbox-nodes="false"
-     inkscape:pageopacity="1"
-     inkscape:snap-grids="true"
-     inkscape:cx="-1.6058278"
-     inkscape:zoom="45.254832"
-     inkscape:current-layer="layer11"
-     inkscape:snap-to-guides="true"
-     inkscape:window-height="1218"
-     gridtolerance="10"
-     inkscape:window-y="226"
-     inkscape:snap-global="true"
-     inkscape:window-x="136"
-     inkscape:window-maximized="0"
-     showgrid="false"
-     id="namedview88"
-     objecttolerance="10"
-     bordercolor="#666666"
-     inkscape:snap-nodes="true"
-     inkscape:guide-bbox="true"
-     inkscape:pageshadow="2"
-     inkscape:snap-bbox="true"
-     showguides="true"
-     inkscape:window-width="1729"
-     guidetolerance="10"
-     inkscape:bbox-paths="false"
-     showborder="false"
-     borderopacity="1"
+     inkscape:cy="7.628875"
      pagecolor="#666666"
-     inkscape:cy="7.628875">
+     borderopacity="1"
+     showborder="false"
+     inkscape:bbox-paths="false"
+     guidetolerance="10"
+     inkscape:window-width="1729"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:pageshadow="2"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     bordercolor="#666666"
+     objecttolerance="10"
+     id="namedview88"
+     showgrid="false"
+     inkscape:window-maximized="0"
+     inkscape:window-x="136"
+     inkscape:snap-global="true"
+     inkscape:window-y="226"
+     gridtolerance="10"
+     inkscape:window-height="1218"
+     inkscape:snap-to-guides="true"
+     inkscape:current-layer="layer11"
+     inkscape:zoom="45.254832"
+     inkscape:cx="6.4301366"
+     inkscape:snap-grids="true"
+     inkscape:pageopacity="1"
+     inkscape:bbox-nodes="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
-       originy="0"
-       originx="0"
-       visible="true"
-       snapvisiblegridlinesonly="true"
-       type="xygrid"
-       enabled="true"
-       empspacing="2"
-       id="grid4866"
+       spacingx="1"
        spacingy="1"
-       spacingx="1" />
+       id="grid4866"
+       empspacing="2"
+       enabled="true"
+       type="xygrid"
+       snapvisiblegridlinesonly="true"
+       visible="true"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
      id="defs7386" />
   <g
-     style="display:inline"
+     inkscape:label="status"
+     transform="translate(-222,-381)"
+     inkscape:groupmode="layer"
      id="layer9"
-     inkscape:groupmode="layer"
-     transform="translate(-222,-381)"
-     inkscape:label="status" />
+     style="display:inline" />
   <g
-     id="layer10"
-     inkscape:groupmode="layer"
+     inkscape:label="devices"
      transform="translate(-222,-381)"
-     inkscape:label="devices" />
+     inkscape:groupmode="layer"
+     id="layer10" />
   <g
-     id="layer11"
-     inkscape:groupmode="layer"
+     inkscape:label="apps"
      transform="translate(-222,-381)"
-     inkscape:label="apps">
+     inkscape:groupmode="layer"
+     id="layer11">
     <path
-       inkscape:connector-curvature="0"
-       d="m 237.59013,384.04991 v -1.32002 c 0,-0.7313 -0.58873,-1.32003 -1.32002,-1.32003 h -12.54022 c -0.73129,0 -1.32002,0.58873 -1.32002,1.32003 v 1.32002 c 0,-0.73129 0.58873,-1.32002 1.32002,-1.32002 h 12.54022 c 0.73129,0 1.32002,0.58873 1.32002,1.32002 z"
+       transform="translate(222,381)"
+       d="m 1.7304688,0.41015625 c -0.73129005,0 -1.32031255,0.5890125 -1.32031255,1.32031255 v 1.3203124 9.8984378 1.320312 c 0,0.73129 0.5890225,1.320313 1.32031255,1.320313 h 1.3203124 9.8984378 1.320312 c 0.73129,0 1.320313,-0.589023 1.320313,-1.320313 V 12.949219 3.0507812 1.7304688 c 0,-0.73130005 -0.589023,-1.32031255 -1.320313,-1.32031255 z m 0,1.32031255 H 14.269531 V 14.269531 H 1.7304688 Z"
        style="opacity:0.5;fill:#808080;fill-opacity:1;stroke-width:0.330006"
        id="path29-6" />
-    <path
-       id="path1162"
-       style="opacity:0.5;fill:#808080;fill-opacity:1;stroke-width:0.330006"
-       d="m 222.40987,393.95008 v 1.32003 c 0,0.73129 0.58873,1.32002 1.32002,1.32002 h 12.54022 c 0.73129,0 1.32002,-0.58873 1.32002,-1.32002 v -1.32003 c 0,0.7313 -0.58873,1.32003 -1.32002,1.32003 h -12.54022 c -0.73129,0 -1.32002,-0.58873 -1.32002,-1.32003 z"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 225.04991,381.40986 h -1.32002 c -0.73129,0 -1.32002,0.58873 -1.32002,1.32003 v 12.54022 c 0,0.73129 0.58873,1.32002 1.32002,1.32002 h 1.32002 c -0.73129,0 -1.32002,-0.58873 -1.32002,-1.32002 v -12.54022 c 0,-0.7313 0.58873,-1.32003 1.32002,-1.32003 z"
-       style="opacity:0.5;fill:#808080;fill-opacity:1;stroke-width:0.330006"
-       id="path1164" />
-    <path
-       id="path1166"
-       style="opacity:0.5;fill:#808080;fill-opacity:1;stroke-width:0.330006"
-       d="m 234.95009,381.40986 h 1.32002 c 0.73129,0 1.32002,0.58873 1.32002,1.32003 v 12.54022 c 0,0.73129 -0.58873,1.32002 -1.32002,1.32002 h -1.32002 c 0.73129,0 1.32002,-0.58873 1.32002,-1.32002 v -12.54022 c 0,-0.7313 -0.58873,-1.32003 -1.32002,-1.32003 z"
-       inkscape:connector-curvature="0" />
     <text
-       id="text866"
-       y="393"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.4449px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:0.5;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.286123"
        x="226.25752"
-       style="font-style:normal;font-weight:normal;font-size:11.4449px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.286123;opacity:0.5;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Labs';-inkscape-font-specification:'Star Labs';fill:#808080;fill-opacity:1;stroke-width:0.286123;"
-         y="393"
-         x="226.25752"
+       y="393"
+       id="text866"><tspan
+         sodipodi:role="line"
          id="tspan864"
-         sodipodi:role="line">A</tspan></text>
+         x="226.25752"
+         y="393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Star Labs';-inkscape-font-specification:'Star Labs';fill:#808080;fill-opacity:1;stroke-width:0.286123">A</tspan></text>
   </g>
   <g
-     id="layer12"
-     inkscape:groupmode="layer"
+     inkscape:label="actions"
      transform="translate(-222,-381)"
-     inkscape:label="actions" />
+     inkscape:groupmode="layer"
+     id="layer12" />
   <g
-     id="layer13"
-     inkscape:groupmode="layer"
+     inkscape:label="places"
      transform="translate(-222,-381)"
-     inkscape:label="places" />
+     inkscape:groupmode="layer"
+     id="layer13" />
   <g
-     id="layer14"
-     inkscape:groupmode="layer"
+     inkscape:label="mimetypes"
      transform="translate(-222,-381)"
-     inkscape:label="mimetypes" />
+     inkscape:groupmode="layer"
+     id="layer14" />
   <g
-     id="layer15"
-     inkscape:groupmode="layer"
+     inkscape:label="emblems"
      transform="translate(-222,-381)"
-     inkscape:label="emblems" />
+     inkscape:groupmode="layer"
+     id="layer15" />
 </svg>
